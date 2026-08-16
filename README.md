@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="banner.png" alt="Hijaab Sikander Banner" width="100%">
+  <img src="banner.jpg" alt="Hijaab Sikander Banner" width="100%">
 </p>
 
 <!-- MAIN SECTION WITH RIGHT-ALIGNED GRAPHIC -->
