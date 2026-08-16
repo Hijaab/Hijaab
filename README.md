@@ -4,10 +4,6 @@
 </p>
 
 <!-- MAIN SECTION WITH RIGHT-ALIGNED GRAPHIC -->
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" align="right" width="220" alt="DevSecOps Illustration">
-</p>
-
 <table>
   <tr>
     <td valign="top">
@@ -15,8 +11,8 @@
       <h3><i>DevSecOps Engineer & Application Security Specialist</i></h3>
       <p>I am a DevSecOps Engineer focused on securing financial transaction systems, automating CI/CD pipelines, and building Python-based security tools.</p>
     </td>
-    <td align="right" valign="top" width="200">
-      <img src="https://octodex.github.com/images/dinotocat.png" width="180" alt="Dinotocat Mascot">
+    <td align="right" valign="top" width="220">
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="200" alt="DevSecOps Illustration">
     </td>
   </tr>
 </table>
