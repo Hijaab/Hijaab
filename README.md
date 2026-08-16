@@ -15,7 +15,8 @@
 I am a DevSecOps Engineer focused on securing financial transaction systems, automating CI/CD pipelines, and building Python-based security tools.
 
 *  **Specialization:** AppSec, SAST, & DevSecOps Automation
-*  **Currently Pursuing:** M.Sc. Data Science @ TU Dortmund
+<!-- *  **Currently Pursuing:** M.Sc. Data Science @ TU Dortmund -->
+*  **Education:** B.Sc. Software Engineering @ DHA Suffa University
 *  **Experience:** Securing banking applications, SAST integration, & container security
 *  **Technical Writing:** Read my blog posts on [Medium](https://medium.com/@codewithhs9)
 *  **Ask me about:** SAST Pipelines, Python Security Automation, & PenTesting
