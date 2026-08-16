@@ -31,11 +31,6 @@
 
 <br> 
 
-<!-- MAIN SECTION WITH RIGHT-ALIGNED GRAPHIC --> 
-<div align="right">
-  <img src="https://octodex.github.com/images/dinotocat.png" width="220" alt="Dinotocat Mascot" align="right" style="margin-left: 20px;">
-</div>
-
 <!-- PROFILE VIEWS COUNTER BADGE --> 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Hijaab&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" /> 
