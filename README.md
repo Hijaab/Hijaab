@@ -8,13 +8,18 @@
   <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" align="right" width="220" alt="DevSecOps Illustration">
 </p>
 
-<img align="right" src="https://octodex.github.com/images/dinotocat.png" width="160" alt="Dinotocat" />
-
-# I'M HIJAAB!
-
-*DevSecOps Engineer & Application Security Specialist*
-
-I am a DevSecOps Engineer focused on securing financial transaction systems, automating CI/CD pipelines, and building Python-based security tools.
+<table>
+  <tr>
+    <td valign="top">
+      <h1>👋 I'M HIJAAB!</h1>
+      <h3><i>DevSecOps Engineer & Application Security Specialist</i></h3>
+      <p>I am a DevSecOps Engineer focused on securing financial transaction systems, automating CI/CD pipelines, and building Python-based security tools.</p>
+    </td>
+    <td align="right" valign="top" width="200">
+      <img src="https://octodex.github.com/images/dinotocat.png" width="180" alt="Dinotocat Mascot">
+    </td>
+  </tr>
+</table>
 
 ### Expertise & Tech Stack
 
