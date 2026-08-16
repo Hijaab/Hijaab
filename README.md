@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" align="right" width="220" alt="DevSecOps Illustration">
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/MartinLSevilla/MartinLSevilla/main/assets/developer.gif" width="180" alt="Mascot" />
+<img align="right" src="https://octodex.github.com/images/Original.png" width="160" alt="Mona Octocat" />
 
 # I'M HIJAAB!
 
