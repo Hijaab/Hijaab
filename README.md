@@ -7,6 +7,7 @@
 <p align="right">
   <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" align="right" width="220" alt="DevSecOps Illustration">
 </p>
+<img align="right" src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="180" alt="Security Mascot" />
 
 # I'M HIJAAB!
 
@@ -27,7 +28,6 @@ I am a DevSecOps Engineer focused on securing financial transaction systems, aut
 
 ### About Me
 
-*  **Specialization:** AppSec, SAST, & DevSecOps Automation
 *  **Education:** B.Sc. Software Engineering @ DHA Suffa University
 *  **Experience:** Securing banking applications, SAST integration, & container security
 *  **Technical Writing:** Read my blog posts on [Medium](https://medium.com/@codewithhs9)
