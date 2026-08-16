@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" align="right" width="220" alt="DevSecOps Illustration">
 </p>
 
-<img align="right" src="https://media.giphy.com/media/qgQUGGAC3P4PP9385a/giphy.gif" width="200" alt="Security Mascot" />
+<img align="right" src="https://raw.githubusercontent.com/MartinLSevilla/MartinLSevilla/main/assets/developer.gif" width="180" alt="Mascot" />
 
 # I'M HIJAAB!
 
