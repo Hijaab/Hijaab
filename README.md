@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" align="right" width="220" alt="DevSecOps Illustration">
 </p>
 
-<img align="right" src="https://octodex.github.com/images/labtocat.png" width="180" alt="Labtocat Mascot" />
+<img align="right" src="https://octodex.github.com/images/dinotocat.png" width="160" alt="Dinotocat" />
 
 # I'M HIJAAB!
 
