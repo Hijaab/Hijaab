@@ -14,6 +14,19 @@
 
 I am a DevSecOps Engineer focused on securing financial transaction systems, automating CI/CD pipelines, and building Python-based security tools.
 
+### Expertise & Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/SAST%2FDAST-E32C2B?style=for-the-badge&logo=fortinet&logoColor=white" alt="SAST/DAST" />
+</p>
+
+### About Me
+
 *  **Specialization:** AppSec, SAST, & DevSecOps Automation
 *  **Education:** B.Sc. Software Engineering @ DHA Suffa University
 *  **Experience:** Securing banking applications, SAST integration, & container security
